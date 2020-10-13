@@ -24,7 +24,6 @@
 
 # Scope for Improvement
 - If the skew correction can be done in the pre processing step
-- If the model runs for a-z all datasets.
 # References
 - Offline Handwritten English Character Recognition based on Convolutional Neural Network. Aiquan Yuan, Gang Bai, Lijing Jiao, Yajie Liu. 2012 10th IAPR International Workshop on Document Analysis System
 - Handwritten English Character Recognition Using Neural Network, Anita Pal , Dayashankar Singh. International Journal of Computer Science & Communication
